@@ -1,3 +1,3 @@
-module com.maestoso
+module monkey
 
 go 1.22.7
